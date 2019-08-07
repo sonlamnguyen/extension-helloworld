@@ -1,0 +1,14 @@
+{
+    "name": "lamdemo/extension-demo",
+    "authors": [
+        {
+            "name": "lamdemo"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "LamHelloWorld": "src/"
+        }
+    }
+}
